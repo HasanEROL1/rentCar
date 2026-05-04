@@ -34,7 +34,7 @@ Kullanıcılar araçları marka, model ve yıla göre filtreleyebilir, sayfalama
 
 ```bash
 # Repo klonla
-git clone <repo-url>
+git clone (https://github.com/HasanEROL1/rentCar)
 
 # Proje dizinine gir
 cd car-rental
